@@ -1,6 +1,6 @@
 ## Urban form and its impacts on air pollution and access to green space
 Code to replicate the analysis in: "Urban form and its impacts on air pollution and access to green space: A global analysis of 462 cities" *PLOS ONE* 18(1): e0278265.
-For more information visit [the paper link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278265)
+For more information visit [the article link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278265).
 
 The dataset is avaialble on Dryad: https://doi.org/10.7291/D13H47
 
